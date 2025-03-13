@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959532376168",
+    "project_id": "internetspeed-42e14",
+    "storage_bucket": "internetspeed-42e14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959532376168:android:2c0787519cd952c67c9bdd",
+        "android_client_info": {
+          "package_name": "com.example.nakorn_tungprapaporn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkBWSfBKyfHqA3z7Hm8ydQxQsnVd6JBRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
